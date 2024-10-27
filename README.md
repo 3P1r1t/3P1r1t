@@ -29,8 +29,8 @@
 
 ### 📊 GitHub 统计
 <div align="center" style="display: inline-flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3P1r1t&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3P1r1t&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3P1r1t&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3P1r1t&layout=compact&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
