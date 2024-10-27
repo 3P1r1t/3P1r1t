@@ -28,8 +28,8 @@
 - 坚信不断学习的力量，与伙伴们一同探索更丰富的开发宇宙。
   
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&theme=solarized-light&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=solarized-light&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&theme=graywhite&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages"/>
 </div>
 
 ### 📫 联系方式
