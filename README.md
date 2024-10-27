@@ -28,7 +28,7 @@
 - 坚信不断学习的力量，与伙伴们一同探索更丰富的开发宇宙。
 - 
 ### 📊 GitHub 统计
-<div align="center">
+<div align="center" style="display: inline-flex;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
