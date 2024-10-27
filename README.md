@@ -22,10 +22,15 @@
 
 ---
 
-### 🌌 关于影山
+### 🌌 关于我
 - 在代码中寻找光芒，**追求简洁与高效**，偶尔也会停下来享受细节。
 - 相信代码如星尘般广阔，愿将一切未了的心愿都寄托在每一行代码中。
 - 坚信不断学习的力量，与伙伴们一同探索更丰富的开发宇宙。
+  
+### 📊 GitHub 统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3P1r1t&show_icons=true&hide_title=true&theme=radical)
+
+---
 
 ### 📫 联系方式
 - **Discord**：`blank_meteor`
