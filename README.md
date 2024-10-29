@@ -12,7 +12,7 @@
 
 ### 🛠 擅长的技术栈
 - **语言**：Python, Java
-- **框架**：Spring
+- **框架**：Spring,Selenium,pyautogui
 - **数据库**：MySQL, Redis
 - **工具**：Git, Docker
 
